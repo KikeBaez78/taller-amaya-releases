@@ -1,0 +1,16 @@
+{
+  "version": "1.1.0",
+  "releaseDate": "2026-11-11",
+  "title": "Actualización Oficial v1.1.0 — PIN de Reina y Base de Datos Limpia",
+  "description": "Mejoras operativas y de seguridad oficial para Taller Amaya:\n• Base de datos 100% limpia para inicio de operaciones reales.\n• PIN de seguridad 2036 exclusivo para Reyna Amaya (Editar y Eliminar).\n• Protección total de vehículos, clientes e historial.",
+  "changelog": [
+    "Base de datos de clientes, vehículos y órdenes en blanco para arranque oficial.",
+    "Botón de eliminar orden protegido con PIN 2036 de Reyna Amaya.",
+    "Modificación de presupuestos de mano de obra y refacciones protegida con PIN 2036.",
+    "Salidas de caja editables y protegidas contra borrados no autorizados.",
+    "Eliminación de personal técnico y mecánicos protegida con PIN.",
+    "Garantía de protección de licencia de hardware y archivo db.json."
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.1.0.zip",
+  "mandatory": false
+}
