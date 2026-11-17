@@ -1,15 +1,14 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "releaseDate": "2026-11-17",
-  "title": "Pantalla de Bahia Integrada en Mostrador y Conectividad Wi-Fi Tablet",
-  "description": "Pantalla de Bahia integrada directamente en el menu de localhost:3000, soporte de red local para tablet y autorizacion de firewall.",
+  "title": "Remisión Oficial en PDF y Bahía Integrada",
+  "description": "Formato de Remisión formal tamaño Carta en Cotizador y Órdenes, sin saturar la pantalla con botones extras.",
   "changelog": [
-    "🖥️ Pestaña fija 'Pantalla de Bahía' integrada en el menú de localhost:3000 (abajo de Órdenes).",
-    "⚡ Botón superior 'Pantalla Bahía' abre de inmediato la bahía en la misma pantalla sin salir del sistema.",
-    "📱 Selector de IP de red local en el modal QR para que la Tablet siempre conecte en cualquier Wi-Fi.",
-    "🛡️ Apertura automática de puerto 3000 en Windows Defender Firewall (PERMITIR-TABLET-WIFI.bat).",
-    "🔒 Protección permanente de vehículos, clientes, fotos y base de datos (db.json)."
+    "📄 Formato oficial de Remisión (Carta) idéntico a papelería física de Taller Amaya.",
+    "⚡ Impresión rápida y descarga en PDF desde Cotizador Rápido y Órdenes de Trabajo.",
+    "🖥️ Pantalla de Bahía integrada en localhost:3000 con soporte de Tablet Wi-Fi y firewall.",
+    "🔒 Cero saturación visual: interfaz limpia sin botones innecesarios en el menú principal."
   ],
-  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.2.2.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.2.3.zip",
   "mandatory": false
 }
