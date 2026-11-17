@@ -1,14 +1,15 @@
 {
-  "version": "1.2.1",
-  "releaseDate": "2026-11-15",
-  "title": "Correccion OTA y Acceso a Bahia",
-  "description": "Correccion de verificador de actualizaciones OTA y pantalla de Bahia",
+  "version": "1.2.2",
+  "releaseDate": "2026-11-17",
+  "title": "Pantalla de Bahia Integrada en Mostrador y Conectividad Wi-Fi Tablet",
+  "description": "Pantalla de Bahia integrada directamente en el menu de localhost:3000, soporte de red local para tablet y autorizacion de firewall.",
   "changelog": [
-    "Correccion OTA y Acceso a Bahia",
-    "Correccion de verificador de actualizaciones OTA y pantalla de Bahia",
-    "Protección permanente de vehículos, clientes y base de datos (db.json).",
-    "Seguro de activación de hardware intacto."
+    "🖥️ Pestaña fija 'Pantalla de Bahía' integrada en el menú de localhost:3000 (abajo de Órdenes).",
+    "⚡ Botón superior 'Pantalla Bahía' abre de inmediato la bahía en la misma pantalla sin salir del sistema.",
+    "📱 Selector de IP de red local en el modal QR para que la Tablet siempre conecte en cualquier Wi-Fi.",
+    "🛡️ Apertura automática de puerto 3000 en Windows Defender Firewall (PERMITIR-TABLET-WIFI.bat).",
+    "🔒 Protección permanente de vehículos, clientes, fotos y base de datos (db.json)."
   ],
-  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.2.1.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.2.2.zip",
   "mandatory": false
 }
