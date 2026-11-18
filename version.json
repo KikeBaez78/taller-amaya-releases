@@ -1,15 +1,15 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.5",
   "releaseDate": "2026-11-17",
-  "title": "Blindaje Definitivo de Clientes, Vehiculos y Remision Formal",
-  "description": "Proteccion absoluta e inviolable de clientes y vehiculos en todas las actualizaciones, fusion inteligente de datos y remision oficial en PDF.",
+  "title": "Estabilidad Bahía, Candado PIN Mostrador y Remisión en Cotizador",
+  "description": "Caché en memoria RAM para sincronización instantánea sin micro-cortes, PIN obligatorio 2036 para salir de Bahía, privacidad de comisiones y selector Cotizador Rápido vs Remisión Oficial.",
   "changelog": [
-    "🛡️ BLINDAJE TOTAL DE CLIENTES: Jamás se pierde ni se borra ningún cliente o vehículo en ninguna actualización.",
-    "🔐 BAÚL PERMANENTE DE RESCATE: Doble capa de respaldo en memoria local y disco duro con auto-restauración instantánea.",
-    "🔄 FUSIÓN INTELIGENTE (MERGE): El sistema ahora une y protege todos los registros sin permitir jamás que un archivo vacío sobreescriba datos existentes.",
-    "📄 REMISIÓN FORMAL (CARTA): Formato idéntico a papelería física de Taller Amaya en Cotizador y Órdenes.",
-    "💾 RESPALDO AUTOMÁTICO: Respaldo de seguridad previo en src/data/backups/ antes de cada inicio."
+    "⚡ CONEXIÓN LOCAL ULTRA-ESTABLE: Sincronización servida directamente desde memoria RAM (0.1ms) con polling secuencial cada 4s, eliminando bloqueos de disco en Windows.",
+    "🔒 CANDADO DE SEGURIDAD EN BAHÍA: El botón Mostrador requiere obligatoriamente el PIN de Reyna Amaya (2036) para salir a recepción y ver administración.",
+    "👁️ PRIVACIDAD TOTAL EN BAHÍA: Se ocultan los porcentajes de comisión de mecánicos y los desgloses monetarios de cada auto. Los mecánicos solo ven trabajo técnico y refacciones.",
+    "📄 SELECTOR COTIZADOR VS REMISIÓN: En el mismo modal del Cotizador Rápido ahora se puede elegir entre 'Cotizador Rápido' y 'Remisión Formal', con folio correlativo y botón directo de impresión PDF.",
+    "🛡️ PROTECCIÓN DE DATOS: Conservación garantizada e inviolable de clientes, vehículos e historial."
   ],
-  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.2.4.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.2.5.zip",
   "mandatory": false
 }
