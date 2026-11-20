@@ -1,15 +1,16 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.7",
   "releaseDate": "2026-11-20",
-  "title": "Catálogo de Flotillas y Preselección de Unidades",
-  "description": "Registro previo de unidades por empresa con No. Económico y recepción ágil con 1 clic.",
+  "title": "Edición y Eliminación de Servicios en Órdenes",
+  "description": "Permite a Reyna ajustar, modificar costos, editar conceptos, agregar o eliminar servicios y corregir fallas en cualquier orden.",
   "changelog": [
-    "🚐 CATÁLOGO VEHICULAR DE FLOTILLAS: Registro anticipado de unidades por empresa con número económico (Eco-XX), chofer, teléfono y placas.",
-    "⚡ PRESELECCIÓN EN RECEPCIÓN (CHECK-IN): Selección de unidades de flotilla con 1 solo clic y autollenado instantáneo de todos los datos.",
-    "🚗 RECEPCIÓN DIRECTA: Botón 'Recibir a Servicio' desde el CRM de Flotillas para enviar la unidad al Check-In sin reescribir nada.",
-    "🔒 SEGURIDAD Y PRIVACIDAD: Candado PIN 2036 para salir de Bahía y comisiones protegidas.",
+    "✏️ EDICIÓN Y ELIMINACIÓN DE SERVICIOS: Capacidad total en cada orden para editar concepto, modificar monto de mano de obra, cambiar mecánico asignado o eliminar servicios si hubo error de captura.",
+    "➕ AGREGAR SERVICIOS A ÓRDENES EXISTENTES: Botón '+ Agregar Servicio' en cada orden para sumar nuevas operaciones sin trámites complejos.",
+    "📝 EDICIÓN RÁPIDA DE FALLA REPORTADA: Botón 'Editar' directo en la falla o motivo de visita para corregir textos y detalles sobre la marcha.",
+    "📋 EDICIÓN INLINE EN PRESUPUESTO & COTIZADOR: Posibilidad de editar conceptos de mano de obra y refacciones directamente en el modal de Presupuesto.",
+    "🚐 CATÁLOGO VEHICULAR DE FLOTILLAS: Preselección con 1 clic de unidades con No. Económico, placas y chofer.",
     "🛡️ PROTECCIÓN DE DATOS: Conservación garantizada e inviolable de clientes, vehículos e historial (db.json)."
   ],
-  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.2.6.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.2.7.zip",
   "mandatory": false
 }
