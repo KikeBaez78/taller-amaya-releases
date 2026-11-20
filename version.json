@@ -1,15 +1,15 @@
 {
-  "version": "1.2.5",
-  "releaseDate": "2026-11-17",
-  "title": "Estabilidad Bahía, Candado PIN Mostrador y Remisión en Cotizador",
-  "description": "Caché en memoria RAM para sincronización instantánea sin micro-cortes, PIN obligatorio 2036 para salir de Bahía, privacidad de comisiones y selector Cotizador Rápido vs Remisión Oficial.",
+  "version": "1.2.6",
+  "releaseDate": "2026-11-20",
+  "title": "Catálogo de Flotillas y Preselección de Unidades",
+  "description": "Registro previo de unidades por empresa con No. Económico y recepción ágil con 1 clic.",
   "changelog": [
-    "⚡ CONEXIÓN LOCAL ULTRA-ESTABLE: Sincronización servida directamente desde memoria RAM (0.1ms) con polling secuencial cada 4s, eliminando bloqueos de disco en Windows.",
-    "🔒 CANDADO DE SEGURIDAD EN BAHÍA: El botón Mostrador requiere obligatoriamente el PIN de Reyna Amaya (2036) para salir a recepción y ver administración.",
-    "👁️ PRIVACIDAD TOTAL EN BAHÍA: Se ocultan los porcentajes de comisión de mecánicos y los desgloses monetarios de cada auto. Los mecánicos solo ven trabajo técnico y refacciones.",
-    "📄 SELECTOR COTIZADOR VS REMISIÓN: En el mismo modal del Cotizador Rápido ahora se puede elegir entre 'Cotizador Rápido' y 'Remisión Formal', con folio correlativo y botón directo de impresión PDF.",
-    "🛡️ PROTECCIÓN DE DATOS: Conservación garantizada e inviolable de clientes, vehículos e historial."
+    "🚐 CATÁLOGO VEHICULAR DE FLOTILLAS: Registro anticipado de unidades por empresa con número económico (Eco-XX), chofer, teléfono y placas.",
+    "⚡ PRESELECCIÓN EN RECEPCIÓN (CHECK-IN): Selección de unidades de flotilla con 1 solo clic y autollenado instantáneo de todos los datos.",
+    "🚗 RECEPCIÓN DIRECTA: Botón 'Recibir a Servicio' desde el CRM de Flotillas para enviar la unidad al Check-In sin reescribir nada.",
+    "🔒 SEGURIDAD Y PRIVACIDAD: Candado PIN 2036 para salir de Bahía y comisiones protegidas.",
+    "🛡️ PROTECCIÓN DE DATOS: Conservación garantizada e inviolable de clientes, vehículos e historial (db.json)."
   ],
-  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.2.5.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.2.6.zip",
   "mandatory": false
 }
