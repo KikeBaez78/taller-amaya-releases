@@ -2,7 +2,7 @@
   "version": "1.2.8",
   "releaseDate": "2026-11-21",
   "title": "Edición Total de Órdenes, Vehículos y Clientes con Auditoría",
-  "description": "Permite a Reyna modificar el 100% de la tabla (marca, modelo, año, color, cliente, teléfono, servicios) con PIN 2036 y registro de auditoría.",
+  "description": "Permite a Reyna modificar el 100% de la tabla con PIN 2036 y registro de auditoría.",
   "changelog": [
     "📝 EDICIÓN TOTAL DE ÓRDENES (100% DE LA TABLA): Modificación completa de Marca, Modelo, Año, Color, Placas, No. Económico, VIN, Motor, Odómetro, Combustible, Nombre Cliente, Teléfono, WhatsApp, Correo, Dirección, Chofer y Falla.",
     "🛡️ SEGURIDAD CON PIN 2036: Acceso protegido exclusivo para Reyna Amaya al presionar 'Editar Orden Completa'.",
