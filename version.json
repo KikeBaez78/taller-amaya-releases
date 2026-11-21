@@ -1,16 +1,16 @@
 {
-  "version": "1.2.7",
-  "releaseDate": "2026-11-20",
-  "title": "Edición y Eliminación de Servicios en Órdenes",
-  "description": "Permite a Reyna ajustar, modificar costos, editar conceptos, agregar o eliminar servicios y corregir fallas en cualquier orden.",
+  "version": "1.2.8",
+  "releaseDate": "2026-11-21",
+  "title": "Edición Total de Órdenes, Vehículos y Clientes con Auditoría",
+  "description": "Permite a Reyna modificar el 100% de la tabla (marca, modelo, año, color, cliente, teléfono, servicios) con PIN 2036 y registro de auditoría.",
   "changelog": [
-    "✏️ EDICIÓN Y ELIMINACIÓN DE SERVICIOS: Capacidad total en cada orden para editar concepto, modificar monto de mano de obra, cambiar mecánico asignado o eliminar servicios si hubo error de captura.",
-    "➕ AGREGAR SERVICIOS A ÓRDENES EXISTENTES: Botón '+ Agregar Servicio' en cada orden para sumar nuevas operaciones sin trámites complejos.",
-    "📝 EDICIÓN RÁPIDA DE FALLA REPORTADA: Botón 'Editar' directo en la falla o motivo de visita para corregir textos y detalles sobre la marcha.",
-    "📋 EDICIÓN INLINE EN PRESUPUESTO & COTIZADOR: Posibilidad de editar conceptos de mano de obra y refacciones directamente en el modal de Presupuesto.",
-    "🚐 CATÁLOGO VEHICULAR DE FLOTILLAS: Preselección con 1 clic de unidades con No. Económico, placas y chofer.",
-    "🛡️ PROTECCIÓN DE DATOS: Conservación garantizada e inviolable de clientes, vehículos e historial (db.json)."
+    "📝 EDICIÓN TOTAL DE ÓRDENES (100% DE LA TABLA): Modificación completa de Marca, Modelo, Año, Color, Placas, No. Económico, VIN, Motor, Odómetro, Combustible, Nombre Cliente, Teléfono, WhatsApp, Correo, Dirección, Chofer y Falla.",
+    "🛡️ SEGURIDAD CON PIN 2036: Acceso protegido exclusivo para Reyna Amaya al presionar 'Editar Orden Completa'.",
+    "🕵️ REGISTRO DE AUDITORÍA INMUTABLE: Historial automático que registra quién modificó la orden (con fecha y hora) y el desglose exacto de cada campo cambiado.",
+    "⚡ ALTA Y CHECK-IN 100% ACTUALIZABLES: Al recibir autos existentes, cualquier corrección de marca, modelo, año, color, cliente o teléfono se guarda y actualiza de inmediato en la base de datos.",
+    "🚐 CATÁLOGO Y PRESELECCIÓN DE FLOTILLAS: Unidades con No. Económico y recepción ágil con 1 clic.",
+    "🛡️ PROTECCIÓN DE DATOS: Base de datos y licencia blindadas contra sobreescritura."
   ],
-  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.2.7.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.2.8.zip",
   "mandatory": false
 }
