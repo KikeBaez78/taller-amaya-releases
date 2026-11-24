@@ -1,15 +1,15 @@
 {
   "version": "1.3.0",
   "releaseDate": "2026-11-24",
-  "title": "Version Oficial v1.3.0 - Edicion Total, Flotillas y Blindaje de Datos",
-  "description": "Edicion completa de ordenes, autos multiples por cliente, proteccion de mecanicos y actualizador autonomo.",
+  "title": "Version Oficial v1.3.0 - Edicion Total, Flotillas y Bahia Limpia",
+  "description": "Actualizacion completa con las 5 mejoras de Reyna Amaya y motor de arranque 1.2.1.",
   "changelog": [
-    "📝 EDICIÓN TOTAL DE ÓRDENES (100% DE LA TABLA): Modificación completa de Marca, Modelo, Año, Color, Placas, No. Económico, VIN, Motor, Odómetro, Combustible, Nombre Cliente, Teléfono, WhatsApp, Correo, Dirección, Chofer y Falla.",
-    "🛡️ SEGURIDAD CON PIN 2036: Acceso protegido exclusivo para Reyna Amaya al presionar 'Editar Orden Completa'.",
-    "🕵️ REGISTRO DE AUDITORÍA INMUTABLE: Historial automático que registra quién modificó la orden (con fecha y hora) y el desglose exacto de cada campo cambiado.",
-    "⚡ ALTA Y CHECK-IN 100% ACTUALIZABLES: Al recibir autos existentes, cualquier corrección de marca, modelo, año, color, cliente o teléfono se guarda y actualiza de inmediato en la base de datos.",
-    "🚐 CATÁLOGO Y PRESELECCIÓN DE FLOTILLAS: Unidades con No. Económico y recepción ágil con 1 clic.",
-    "🛡️ PROTECCIÓN DE DATOS: Base de datos y licencia blindadas contra sobreescritura."
+    "📝 EDICIÓN TOTAL DE ÓRDENES: Modificación completa de cliente, teléfono, placas, marca, modelo, falla y servicios con PIN 2036.",
+    "👨‍🔧 BAHÍA EN VIVO PRIVADA: Cero montos ni porcentajes visibles para empleados. Comisiones 100% privadas para Reyna.",
+    "📄 NOTA DE REMISIÓN RÁPIDA: Formato oficial tamaño Carta en Cotizador y en Órdenes de Servicio.",
+    "🛡️ BLINDAJE Y RESTAURACIÓN DE DATOS: Resguardo automático de base de datos de clientes, autos y órdenes sin riesgo de borrado.",
+    "🚐 CATÁLOGO Y REGISTRO DE FLOTILLAS: Unidades con No. Económico preseleccionables en 1 clic.",
+    "🚀 ARRANQUE NATIVO Y ESTABLE: Arquitectura probada tipo 1.2.1 de alta velocidad."
   ],
   "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.3.0.zip",
   "mandatory": false
