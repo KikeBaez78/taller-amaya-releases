@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "releaseDate": "2026-11-24",
-  "title": "Version Oficial v1.3.0 - Edicion Total, Flotillas y Bahia Limpia",
-  "description": "Actualizacion completa con las 5 mejoras de Reyna Amaya y motor de arranque 1.2.1.",
+  "title": "Version Oficial Blindada v1.3.1 - Blindaje Integral y Privacidad Total",
+  "description": "Actualizacion integral con base de datos unificada, QR offline, privacidad en bahia y motor 1.2.1.",
   "changelog": [
     "📝 EDICIÓN TOTAL DE ÓRDENES: Modificación completa de cliente, teléfono, placas, marca, modelo, falla y servicios con PIN 2036.",
     "👨‍🔧 BAHÍA EN VIVO PRIVADA: Cero montos ni porcentajes visibles para empleados. Comisiones 100% privadas para Reyna.",
@@ -11,6 +11,6 @@
     "🚐 CATÁLOGO Y REGISTRO DE FLOTILLAS: Unidades con No. Económico preseleccionables en 1 clic.",
     "🚀 ARRANQUE NATIVO Y ESTABLE: Arquitectura probada tipo 1.2.1 de alta velocidad."
   ],
-  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.3.0.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.3.1.zip",
   "mandatory": false
 }
