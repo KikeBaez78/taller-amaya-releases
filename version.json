@@ -1,8 +1,8 @@
 {
-  "version": "1.2.8",
-  "releaseDate": "2026-11-23",
-  "title": "Blindaje Total de Rutas, Protección de Bahías y Múltiples Carros por Cliente",
-  "description": "Rutas de reinicio seguras, persistencia de mecánicos y desacoplamiento de carros similares.",
+  "version": "1.3.0",
+  "releaseDate": "2026-11-24",
+  "title": "Version Oficial v1.3.0 - Edicion Total, Flotillas y Blindaje de Datos",
+  "description": "Edicion completa de ordenes, autos multiples por cliente, proteccion de mecanicos y actualizador autonomo.",
   "changelog": [
     "📝 EDICIÓN TOTAL DE ÓRDENES (100% DE LA TABLA): Modificación completa de Marca, Modelo, Año, Color, Placas, No. Económico, VIN, Motor, Odómetro, Combustible, Nombre Cliente, Teléfono, WhatsApp, Correo, Dirección, Chofer y Falla.",
     "🛡️ SEGURIDAD CON PIN 2036: Acceso protegido exclusivo para Reyna Amaya al presionar 'Editar Orden Completa'.",
@@ -11,6 +11,6 @@
     "🚐 CATÁLOGO Y PRESELECCIÓN DE FLOTILLAS: Unidades con No. Económico y recepción ágil con 1 clic.",
     "🛡️ PROTECCIÓN DE DATOS: Base de datos y licencia blindadas contra sobreescritura."
   ],
-  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.2.8.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.3.0.zip",
   "mandatory": false
 }
