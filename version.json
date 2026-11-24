@@ -1,17 +1,16 @@
 {
-  "version": "1.3.3",
+  "version": "1.3.4",
   "releaseDate": "2026-11-24",
-  "title": "Version Oficial Blindada v1.3.3 - Guardado Atómico de Ediciones y Sincronización Inteligente",
-  "description": "Actualizacion con guardado garantizado de ediciones (vehiculo, cliente, servicios), proteccion anti-sobrescritura por sincronizacion y refresco instantaneo en pantalla.",
+  "title": "Versión Oficial v1.3.4 - Privacidad Total en Bahía y Nombres de Mecánicos Estables",
+  "description": "Protección de privacidad para mecánicos (cero montos ni comisiones en bahía), acceso a Taller & Comisiones con PIN 2036 de Reyna Amaya, y edición permanente de nombres de mecánicos con propagación en cascada.",
   "changelog": [
+    "🔒 PRIVACIDAD TOTAL EN BAHÍA: Se eliminaron montos en dinero, porcentajes y comisiones de la vista de empleados. Los mecánicos sólo ven datos técnicos y operativos.",
+    "🛡️ PROTECCIÓN CON PIN DE REYNA (2036): La sección 'Taller & Comisiones' requiere el PIN de Reyna Amaya para ver comisiones y modificar mecánicos.",
+    "👨‍🔧 NOMBRES DE MECÁNICOS ESTABLES: Al editar un mecánico, su nombre se guarda de forma permanente y ya no se revierte con la sincronización.",
+    "🔄 PROPAGACIÓN EN CASCADA: Al cambiar el nombre de un mecánico, se actualiza automáticamente en todas las órdenes de trabajo activas y en la pantalla de Bahía.",
     "✅ GUARDADO ATÓMICO DE EDICIONES: Guardado garantizado y directo al disco duro de cambios en placas, marca, modelo, teléfono, cliente, falla y servicios.",
-    "🛡️ SINCRONIZACIÓN INTELIGENTE ANTI-SOBRESCRITURA: El ciclo de sincronización en segundo plano respeta siempre la versión más reciente editada localmente.",
-    "⚡ REFRESCO INSTANTÁNEO EN PANTALLA: Actualización inmediata de vehículos, clientes y órdenes sin parpadeo ni recargas.",
-    "🚀 MOTOR ULTRAESTABLE v1.2.1: Arranque instantáneo nativo en 50ms sin errores de conexión localhost.",
-    "👨‍🔧 BAHÍA EN VIVO PRIVADA: Cero montos ni comisiones visibles para empleados.",
-    "📄 NOTA DE REMISIÓN RÁPIDA: Formato oficial tamaño Carta con código QR 100% offline.",
-    "🚐 CATÁLOGO DE FLOTILLAS: Unidades con No. Económico preseleccionables en 1 clic."
+    "🚀 MOTOR ULTRAESTABLE v1.2.1: Arranque instantáneo nativo en 50ms sin errores de conexión localhost."
   ],
-  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.3.3.zip",
+  "downloadUrl": "https://raw.githubusercontent.com/kikebaez78/taller-amaya-releases/main/builds/v1.3.4.zip",
   "mandatory": false
 }
